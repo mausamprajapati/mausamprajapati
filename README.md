@@ -7,10 +7,6 @@
 
 ---
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:4B79A1,100:283E51&height=180&section=header&text=Mausam%20Prajapati&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35)
-
----
-
 ## 🧠 Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, React.js, Next.js, Three.js  
 - **Backend:** Node.js, Express.js  
