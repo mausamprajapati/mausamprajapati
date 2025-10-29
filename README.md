@@ -16,12 +16,6 @@
 
 ---
 
-## 🌱 What I’m Working On
-- Smart Study Scheduler using Spaced Repetition (Minor Project)  
-- Building MERN + AI powered portfolio projects  
-
----
-
 ## 📈 My GitHub Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mausamprajapati&show_icons=true&theme=tokyonight)
 
