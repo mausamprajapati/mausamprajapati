@@ -17,8 +17,8 @@ Keep learning and growing every day
 📫 Connect with me:
 
 📧 Email: mausamprajapati34@gmail.com
-
-🔗 LinkedIn
+ 
+🔗 LinkedIn: https://www.linkedin.com/in/mausam-prajapati-63001b341
 <!--
 **mausamprajapati/mausamprajapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
