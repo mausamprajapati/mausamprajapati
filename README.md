@@ -1,5 +1,24 @@
 ## Hi there 👋
+I’m Mausam Prajapati
 
+I’m an MCA student at Gyan Ganga Institute of Technology, Jabalpur.
+Currently learning MERN Stack and exploring DevOps.
+I like building small, meaningful projects and improving my skills step by step.
+
+💡 Goals:
+
+Get placed in a good company
+
+Build full-stack web projects
+
+Keep learning and growing every day
+
+
+📫 Connect with me:
+
+📧 Email: mausamprajapati34@gmail.com
+
+🔗 LinkedIn
 <!--
 **mausamprajapati/mausamprajapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
