@@ -1,35 +1,21 @@
-## Hi there 👋
-I’m Mausam Prajapati
+# 👋 Hi, I'm Mausam Prajapati!
 
-I’m an MCA student at Gyan Ganga Institute of Technology, Jabalpur.
-Currently learning MERN Stack and exploring DevOps.
-I like building small, meaningful projects and improving my skills step by step.
+🎓 MCA Student at Gyan Ganga Institute of Technology, Jabalpur  
+💻 Passionate about Full Stack Web Development & AI Integration  
+🚀 Currently learning MERN Stack at Sheryians Coding School  
+📚 Exploring DevOps, Docker & Generative AI  
 
-💡 Goals:
+## 🧠 Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React.js  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Tools:** Git, GitHub, VS Code  
+- **Others:** Docker, LangChain (AI), REST APIs 
 
-Get placed in a good company
+## 📈 GitHub Stats
+![Mausam's GitHub stats](https://github-readme-stats.vercel.app/api?username=mausamprajapati&show_icons=true&theme=tokyonight)
 
-Build full-stack web projects
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mausamprajapati&layout=compact&theme=tokyonight)
 
-Keep learning and growing every day
-
-
-📫 Connect with me:
-
-📧 Email: mausamprajapati34@gmail.com
- 
-🔗 LinkedIn: https://www.linkedin.com/in/mausam-prajapati-63001b341
-<!--
-**mausamprajapati/mausamprajapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect with Me
+[LinkedIn](https://linkedin.com/in/mausamprajapati) | [Email](mailto:mausamprajapati34@gmail.com)
