@@ -15,7 +15,7 @@
 - **Others:** Docker, LangChain (AI), REST APIs  
 
 ---
-
+[![roadmap.sh](https://roadmap.sh/card/wide/691f80bb467651eddb183cc2?variant=dark&roadmaps=)](https://roadmap.sh)
 ## 📈 My GitHub Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mausamprajapati&show_icons=true&theme=tokyonight)
 
