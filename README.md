@@ -14,7 +14,7 @@ I am bridging the gap between academic concepts and industry-grade tech.
 * **Academics:** Deepening my understanding of Algorithms & System Design (MCA).
 * **Development:** Mastering the MERN Stack + Creative Frontend.
 * **The Goal:** I am currently obsessed with **Frontend Architecture**—learning how to structure HTML/CSS to build pixel-perfect, responsive layouts before I scale up to the backend.
-* **Tracking:** I log my daily progress on [roadmap.sh](https://roadmap.sh).
+* **Tracking:** I log my daily progress on [roadmap.sh](https://roadmap.sh/u/mausamprajapati).
 
 ---
 
