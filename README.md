@@ -67,7 +67,5 @@ I believe in the "slow and steady" approach. I take the time to truly understand
 ### 📫 Connect with Me
 Open to discussing tech, MCA subjects, or frontend development!
 
-<p align="left">
-<a href="https://www.linkedin.com/in/mausam-prajapati-63001b341/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="mailto:mausamprajapati34@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail-new.png" alt="email" height="30" width="30" /></a>
-</p>
+- **LinkedIn:** [Mausam Prajapati](https://www.linkedin.com/in/mausam-prajapati-63001b341?)
+- **Email:** mausamprajapati34@gmail.com
