@@ -1,4 +1,4 @@
-# Hey, I'm [Mausam Prajapati] 👋
+# Hey, I'm Mausam Prajapati 👋
 
 ### MCA Student 🎓 | Full Stack Developer in Training 💻
 
@@ -11,10 +11,10 @@ I sit at the intersection of computer science theory and creative engineering. M
 ### 🧐 My Current Focus
 I am bridging the gap between academic concepts and industry-grade tech.
 
-* ** Academics:** Deepening my understanding of Algorithms & System Design (MCA).
-* ** Development:** Mastering the MERN Stack + Creative Frontend.
-* ** The Goal:** I am currently obsessed with **Frontend Architecture**—learning how to structure HTML/CSS to build pixel-perfect, responsive layouts before I scale up to the backend.
-* ** Tracking:** I log my daily progress on [roadmap.sh](https://roadmap.sh).
+* **Academics:** Deepening my understanding of Algorithms & System Design (MCA).
+* **Development:** Mastering the MERN Stack + Creative Frontend.
+* **The Goal:** I am currently obsessed with **Frontend Architecture**—learning how to structure HTML/CSS to build pixel-perfect, responsive layouts before I scale up to the backend.
+* **Tracking:** I log my daily progress on [roadmap.sh](https://roadmap.sh).
 
 ---
 
@@ -67,5 +67,7 @@ I believe in the "slow and steady" approach. I take the time to truly understand
 ### 📫 Connect with Me
 Open to discussing tech, MCA subjects, or frontend development!
 
-[https://www.linkedin.com/in/mausam-prajapati-63001b341] | [mausamprajapati34@gmail.com]
-
+<p align="left">
+<a href="https://www.linkedin.com/in/mausam-prajapati-63001b341/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="mailto:mausamprajapati34@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail-new.png" alt="email" height="30" width="30" /></a>
+</p>
