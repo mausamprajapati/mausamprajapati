@@ -8,7 +8,7 @@ I sit at the intersection of computer science theory and creative engineering. M
 
 ---
 
-### 🧐 My Current Focus
+### My Current Focus
 I am bridging the gap between academic concepts and industry-grade tech.
 
 * **Academics:** Deepening my understanding of Algorithms & System Design (MCA).
@@ -64,15 +64,8 @@ The complete arsenal of tools I am mastering to bridge theory and practice:
 
 ---
 
-### 📈 My Philosophy
-> "Theory without practice is empty; practice without theory is blind."
-
-I believe in the "slow and steady" approach. I take the time to truly understand the *why* behind the code (Data Structures, Memory Management, System Design) ensuring that my foundation is solid for the long run.
-
----
 
 ### 📫 Connect with Me
 Open to discussing tech, MCA subjects, or frontend development!
 
 - **LinkedIn:** [Mausam Prajapati](https://www.linkedin.com/in/mausam-prajapati-63001b341?)
-- **Email:** mausamprajapati34@gmail.com
