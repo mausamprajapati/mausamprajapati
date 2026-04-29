@@ -1,6 +1,6 @@
 # Hey, I'm Mausam Prajapati 👋
 
-### MCA Student 🎓 | Full Stack Developer in Training 💻
+Full Stack Developer in Training 💻
 
 I am currently pursuing my **Master of Computer Applications (MCA)** while simultaneously building modern, scalable web applications at **Sheryians Coding School (Cohort 2)**.
 
